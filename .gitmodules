@@ -1,3 +1,6 @@
 [submodule "NetVis-Mongo"]
 	path = NetVis-Mongo
 	url = https://github.com/NetVisualization/NetVis-Mongo.git
+[submodule "NetVis-Code"]
+	path = NetVis-Code
+	url = https://github.com/NetVisualization/NetVis-Code.git
