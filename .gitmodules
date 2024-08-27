@@ -1,0 +1,3 @@
+[submodule "Mongo"]
+	path = Mongo
+	url = https://github.com/NetVisualization/NetVis-Mongo/
