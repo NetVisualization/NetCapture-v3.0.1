@@ -1,4 +1,4 @@
-# NetCapture-V2
+# NetCapture
 
 Version: v3.0.1
 
