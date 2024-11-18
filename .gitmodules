@@ -4,3 +4,6 @@
 [submodule "NetVis-Code"]
 	path = NetVis-Code
 	url = https://github.com/NetVisualization/NetVis-Code.git
+[submodule "NetVis-Scripts"]
+	path = NetVis-Scripts
+	url = https://github.com/NetVisualization/NetVis-Scripts.git
