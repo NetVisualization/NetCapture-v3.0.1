@@ -2,4 +2,4 @@
 
 Version: v3.0.1
 
-Authors: Dad, brother, uncle, mother, son
+Authors: Ian Garrett, Tyme Collins, Ana Michel, Wolfgang Hoffman, Caleb Shea
